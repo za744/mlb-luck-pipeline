@@ -4,7 +4,7 @@ Baseball data pipeline that compares hitters' actual vs expected batting average
 
 ## Why
 
-Batting average is noisy. A hitter can scorch the ball and still get robbed by a great defensive play, or hit a weak dribbler that happens to find a gap. Statcast's expected batting average (xBA) measures contact quality using exit velocity and launch angle, independent of outcome. Comparing actual BA to xBA surfaces which hitters are over or underperforming their underlying skill — useful for spotting regression and breakout candidates before the stats catch up.
+Batting average is noisy. A hitter can scorch the ball and still get robbed by a great defensive play, or hit a weak dribbler that happens to find a gap. Statcast's expected batting average (xBA) measures contact quality using exit velocity and launch angle, independent of outcome. Comparing actual BA to xBA surfaces which hitters are over or underperforming their underlying skill, which is useful for spotting regression and breakout candidates before the stats catch up.
 
 ## Architecture
 
